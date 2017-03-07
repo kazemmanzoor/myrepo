@@ -12,7 +12,7 @@
 // Includes header of my library
 #include "mylib.h"
 
-#define SIZE 42
+#define SIZE 10000000
 
 double seconds()
 /* Return elapsed time on second from January 1, 1970 */
